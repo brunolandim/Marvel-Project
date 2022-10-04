@@ -6,6 +6,7 @@ const App = () => {
   return (
     <>
     <div>Marvel</div>
+    <div>Marvel</div>
     </>
   )
 }
